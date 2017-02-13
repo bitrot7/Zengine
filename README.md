@@ -1,9 +1,9 @@
 # Zengine
 ActionScript Framework for game dev.
 
-if you are familiar with Entity Component Systems the code will make more sense.
+If you are familiar with Entity Component Systems, the code will make more sense.
 
-Basically zengine provides a simple way to create game objects quickly.
+Zengine provides a simple way to create game objects quickly.
 
 here is a real basic walkthrough..
 
