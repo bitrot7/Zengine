@@ -32,6 +32,7 @@ here is a real basic walkthrough..
        
 6. look at your texture texture1 on the screen and admire the simplicity :)
 
+7.  Check out the code for "Drifter" https://github.com/bitrot7/Drifter a game that utilizes zengine.  Seeing zengine in action will help.
 
 -- More notes for developers -- (who else would be reading this anyways..)
 
@@ -42,6 +43,7 @@ zengine.entity.component.
 
 When you are ready extend the ZengineObject class and make your own systems to work with your own user defined data.  Leaving 
 all the tedious physics and rendering to Zengine !!
+
 
 
        
